@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-trisemus-app/static/css/main.1b93776e.chunk.css",
+    "main.js": "/react-trisemus-app/static/js/main.f78e62a5.chunk.js",
+    "main.js.map": "/react-trisemus-app/static/js/main.f78e62a5.chunk.js.map",
+    "runtime-main.js": "/react-trisemus-app/static/js/runtime-main.b42d23b6.js",
+    "runtime-main.js.map": "/react-trisemus-app/static/js/runtime-main.b42d23b6.js.map",
+    "static/js/2.d3b3d68a.chunk.js": "/react-trisemus-app/static/js/2.d3b3d68a.chunk.js",
+    "static/js/2.d3b3d68a.chunk.js.map": "/react-trisemus-app/static/js/2.d3b3d68a.chunk.js.map",
+    "index.html": "/react-trisemus-app/index.html",
+    "precache-manifest.f2d1e045255de60c217e491a006de849.js": "/react-trisemus-app/precache-manifest.f2d1e045255de60c217e491a006de849.js",
+    "service-worker.js": "/react-trisemus-app/service-worker.js",
+    "static/css/main.1b93776e.chunk.css.map": "/react-trisemus-app/static/css/main.1b93776e.chunk.css.map",
+    "static/js/2.d3b3d68a.chunk.js.LICENSE.txt": "/react-trisemus-app/static/js/2.d3b3d68a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-trisemus-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b42d23b6.js",
+    "static/js/2.d3b3d68a.chunk.js",
+    "static/css/main.1b93776e.chunk.css",
+    "static/js/main.f78e62a5.chunk.js"
+  ]
+}
