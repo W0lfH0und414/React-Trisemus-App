@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-trisemus-app/precache-manifest.f2d1e045255de60c217e491a006de849.js"
+  "/react-trisemus-app/precache-manifest.5588d5e1efe87309b01bbd2c24b14660.js"
 );
 
 self.addEventListener('message', (event) => {

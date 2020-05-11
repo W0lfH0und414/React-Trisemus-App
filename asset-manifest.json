@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/react-trisemus-app/static/css/main.1b93776e.chunk.css",
-    "main.js": "/react-trisemus-app/static/js/main.f78e62a5.chunk.js",
-    "main.js.map": "/react-trisemus-app/static/js/main.f78e62a5.chunk.js.map",
+    "main.css": "/react-trisemus-app/static/css/main.ae39faca.chunk.css",
+    "main.js": "/react-trisemus-app/static/js/main.4f8f7fad.chunk.js",
+    "main.js.map": "/react-trisemus-app/static/js/main.4f8f7fad.chunk.js.map",
     "runtime-main.js": "/react-trisemus-app/static/js/runtime-main.b42d23b6.js",
     "runtime-main.js.map": "/react-trisemus-app/static/js/runtime-main.b42d23b6.js.map",
-    "static/js/2.d3b3d68a.chunk.js": "/react-trisemus-app/static/js/2.d3b3d68a.chunk.js",
-    "static/js/2.d3b3d68a.chunk.js.map": "/react-trisemus-app/static/js/2.d3b3d68a.chunk.js.map",
+    "static/js/2.f1cf0ddf.chunk.js": "/react-trisemus-app/static/js/2.f1cf0ddf.chunk.js",
+    "static/js/2.f1cf0ddf.chunk.js.map": "/react-trisemus-app/static/js/2.f1cf0ddf.chunk.js.map",
     "index.html": "/react-trisemus-app/index.html",
-    "precache-manifest.f2d1e045255de60c217e491a006de849.js": "/react-trisemus-app/precache-manifest.f2d1e045255de60c217e491a006de849.js",
+    "precache-manifest.5588d5e1efe87309b01bbd2c24b14660.js": "/react-trisemus-app/precache-manifest.5588d5e1efe87309b01bbd2c24b14660.js",
     "service-worker.js": "/react-trisemus-app/service-worker.js",
-    "static/css/main.1b93776e.chunk.css.map": "/react-trisemus-app/static/css/main.1b93776e.chunk.css.map",
-    "static/js/2.d3b3d68a.chunk.js.LICENSE.txt": "/react-trisemus-app/static/js/2.d3b3d68a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-trisemus-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.ae39faca.chunk.css.map": "/react-trisemus-app/static/css/main.ae39faca.chunk.css.map",
+    "static/js/2.f1cf0ddf.chunk.js.LICENSE.txt": "/react-trisemus-app/static/js/2.f1cf0ddf.chunk.js.LICENSE.txt",
+    "static/media/Trisemus-table-cut.png": "/react-trisemus-app/static/media/Trisemus-table-cut.b8412611.png",
+    "static/media/index.css": "/react-trisemus-app/static/media/texture.45524662.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b42d23b6.js",
-    "static/js/2.d3b3d68a.chunk.js",
-    "static/css/main.1b93776e.chunk.css",
-    "static/js/main.f78e62a5.chunk.js"
+    "static/js/2.f1cf0ddf.chunk.js",
+    "static/css/main.ae39faca.chunk.css",
+    "static/js/main.4f8f7fad.chunk.js"
   ]
 }
